@@ -1,0 +1,19 @@
+.callback_input_container{
+    display: flex;
+}
+.callback_input_item{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 25%;
+    margin: 0 5px;
+}
+.callback_input_item label{
+    display: block;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.callback_input_item input{
+    width: 100%;
+}
